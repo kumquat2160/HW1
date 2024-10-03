@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.cpp
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(17,27): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Source.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project5.vcxproj -> C:\Users\晉頡\Desktop\Homework\Project5\Project5\Project5\Project5.exe
